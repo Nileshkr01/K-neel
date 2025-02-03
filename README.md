@@ -1,2 +1,3 @@
 # K-neel
-This is my first repository.
+This is my first git-hub repository.
+Auther:Nilesh Kr.
